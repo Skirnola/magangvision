@@ -7,7 +7,7 @@ from imutils import perspective
 import imutils
 import cv2
 import math
-import urllib #for reading image from URL
+import urllib #Untuk membaca Gambar dari URL
 import serial
 
 # Insisalisasi koneksi serial untuk komunikasi dengan perangkat eksternal
